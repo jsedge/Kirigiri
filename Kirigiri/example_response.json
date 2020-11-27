@@ -1,0 +1,388 @@
+{
+    "header": {
+        "user_id": 0,
+        "account_type": 0,
+        "short_limit": "4",
+        "long_limit": "100",
+        "long_remaining": 81,
+        "short_remaining": 2,
+        "status": 0,
+        "results_requested": "8",
+        "index": {
+            "0": {
+                "status": 0,
+                "parent_id": 0,
+                "id": 0,
+                "results": 8
+            },
+            "2": {
+                "status": 0,
+                "parent_id": 2,
+                "id": 2,
+                "results": 8
+            },
+            "5": {
+                "status": 0,
+                "parent_id": 5,
+                "id": 5,
+                "results": 8
+            },
+            "51": {
+                "status": 0,
+                "parent_id": 5,
+                "id": 51,
+                "results": 8
+            },
+            "52": {
+                "status": 0,
+                "parent_id": 5,
+                "id": 52,
+                "results": 8
+            },
+            "53": {
+                "status": 0,
+                "parent_id": 5,
+                "id": 53,
+                "results": 8
+            },
+            "6": {
+                "status": 0,
+                "parent_id": 6,
+                "id": 6,
+                "results": 8
+            },
+            "8": {
+                "status": 0,
+                "parent_id": 8,
+                "id": 8,
+                "results": 8
+            },
+            "9": {
+                "status": 0,
+                "parent_id": 9,
+                "id": 9,
+                "results": 16
+            },
+            "10": {
+                "status": 0,
+                "parent_id": 10,
+                "id": 10,
+                "results": 8
+            },
+            "11": {
+                "status": 0,
+                "parent_id": 11,
+                "id": 11,
+                "results": 8
+            },
+            "12": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 12
+            },
+            "16": {
+                "status": 0,
+                "parent_id": 16,
+                "id": 16,
+                "results": 8
+            },
+            "18": {
+                "status": 0,
+                "parent_id": 18,
+                "id": 18,
+                "results": 8
+            },
+            "19": {
+                "status": 0,
+                "parent_id": 19,
+                "id": 19,
+                "results": 8
+            },
+            "20": {
+                "status": 0,
+                "parent_id": 20,
+                "id": 20,
+                "results": 8
+            },
+            "21": {
+                "status": 0,
+                "parent_id": 21,
+                "id": 21,
+                "results": 8
+            },
+            "211": {
+                "status": 0,
+                "parent_id": 21,
+                "id": 211,
+                "results": 8
+            },
+            "22": {
+                "status": 0,
+                "parent_id": 22,
+                "id": 22,
+                "results": 8
+            },
+            "23": {
+                "status": 0,
+                "parent_id": 23,
+                "id": 23,
+                "results": 8
+            },
+            "24": {
+                "status": 0,
+                "parent_id": 24,
+                "id": 24,
+                "results": 8
+            },
+            "25": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 25
+            },
+            "26": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 26
+            },
+            "27": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 27
+            },
+            "28": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 28
+            },
+            "29": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 29
+            },
+            "30": {
+                "status": 1,
+                "parent_id": 9,
+                "id": 30
+            },
+            "31": {
+                "status": 0,
+                "parent_id": 31,
+                "id": 31,
+                "results": 8
+            },
+            "32": {
+                "status": 0,
+                "parent_id": 32,
+                "id": 32,
+                "results": 8
+            },
+            "33": {
+                "status": 0,
+                "parent_id": 33,
+                "id": 33,
+                "results": 8
+            },
+            "34": {
+                "status": 0,
+                "parent_id": 34,
+                "id": 34,
+                "results": 8
+            },
+            "341": {
+                "status": 0,
+                "parent_id": 341,
+                "id": 341,
+                "results": 8
+            },
+            "35": {
+                "status": 0,
+                "parent_id": 35,
+                "id": 35,
+                "results": 8
+            },
+            "36": {
+                "status": 0,
+                "parent_id": 36,
+                "id": 36,
+                "results": 8
+            },
+            "37": {
+                "status": 0,
+                "parent_id": 37,
+                "id": 37,
+                "results": 8
+            },
+            "38": {
+                "status": 0,
+                "parent_id": 38,
+                "id": 38,
+                "results": 8
+            },
+            "39": {
+                "status": 0,
+                "parent_id": 39,
+                "id": 39,
+                "results": 8
+            },
+            "40": {
+                "status": 0,
+                "parent_id": 40,
+                "id": 40,
+                "results": 8
+            }
+        },
+        "search_depth": "128",
+        "minimum_similarity": 37.48,
+        "query_image_display": "userdata\/08LBTyNZD.jpg.png",
+        "query_image": "08LBTyNZD.jpg",
+        "results_returned": 8
+    },
+    "results": [
+        {
+            "header": {
+                "similarity": "82.13",
+                "thumbnail": "https:\/\/img1.saucenao.com\/res\/pixiv\/7162\/71629113_p0_master1200.jpg?auth=pbT7pug3hPlqkPbiAEpWgw\u0026exp=1606852800",
+                "index_id": 5,
+                "index_name": "Index #5: Pixiv Images - 71629113_p0_master1200.jpg",
+                "dupes": 0
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/www.pixiv.net\/member_illust.php?mode=medium\u0026illust_id=71629113"
+                ],
+                "title": "rkgk",
+                "pixiv_id": 71629113,
+                "member_name": "Aer7o",
+                "member_id": 12362022
+            }
+        },
+        {
+            "header": {
+                "similarity": "83.47",
+                "thumbnail": "https:\/\/img3.saucenao.com\/booru\/c\/d\/cd30d54f1e99b8a923f2362d9bcfe632_0.jpg?auth=8lThtazyGT9OBOnM7AB1rQ\u0026exp=1606852800",
+                "index_id": 9,
+                "index_name": "Index #9: Danbooru - cd30d54f1e99b8a923f2362d9bcfe632_0.jpg",
+                "dupes": 1
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/danbooru.donmai.us\/post\/show\/3315378",
+                    "https:\/\/gelbooru.com\/index.php?page=post\u0026s=view\u0026id=4482883"
+                ],
+                "danbooru_id": 3315378,
+                "gelbooru_id": 4482883,
+                "creator": "aer7o",
+                "material": "girls frontline",
+                "characters": "aa-12 (girls frontline), grizzly mkv (girls frontline)",
+                "source": "https:\/\/i.pximg.net\/img-original\/img\/2018\/11\/12\/22\/22\/13\/71629113"
+            }
+        },
+        {
+            "header": {
+                "similarity": "40.15",
+                "thumbnail": "https:\/\/img3.saucenao.com\/dA\/13181\/131811950.jpg?auth=lTCryLsLi8qX4ijkLm2CUw\u0026exp=1606852800",
+                "index_id": 34,
+                "index_name": "Index #34: deviantArt - 131811950.jpg",
+                "dupes": 0
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/deviantart.com\/view\/131811950"
+                ],
+                "title": "Catalina Bay",
+                "da_id": 131811950,
+                "author_name": "philosomatographer",
+                "author_url": "http:\/\/philosomatographer.deviantart.com"
+            }
+        },
+        {
+            "header": {
+                "similarity": "39.06",
+                "thumbnail": "https:\/\/img3.saucenao.com\/frames\/?expires=1606852800\u0026init=eaa329a1db77e5d7\u0026data=70f2ae31d41159049241a38f580008ae79b88076617955436fb3c16c487e8f206e282d7c3e9d764d923c0c370038ce1d6fa3d67e1ae4c40d1862132c8d10bec41b06eb41edf88c4a7b165490fa7ac9bd2181d5f9f8ee1d2d56e834cc55b6cd1b\u0026auth=42ec61544fb3e9ea9629250d4000702e3c0223ce",
+                "index_id": 21,
+                "index_name": "Index #21: Anime* - 31354-46-1047079.jpg (67333)",
+                "dupes": 0
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/anidb.net\/anime\/842"
+                ],
+                "source": "Hime-chan no Ribbon",
+                "anidb_aid": 842,
+                "part": "30",
+                "year": "1992-1993",
+                "est_time": "00:17:27 \/ 00:21:38"
+            }
+        },
+        {
+            "header": {
+                "similarity": "36.48",
+                "thumbnail": "https:\/\/img1.saucenao.com\/res\/2_hcg\/MuvLuv%20Alternative%20%5BAge%5D%20%28152521%29\/img\/ev\/MuvLuv%20Alternative%20439.jpg?auth=js_pqoZixc6q0FF8_XZB2g\u0026exp=1606852800",
+                "index_id": 2,
+                "index_name": "Index #2: H-Game CG - MuvLuv Alternative 439.jpg",
+                "dupes": 0
+            },
+            "data": {
+                "title": "MuvLuv Alternative",
+                "company": "Age",
+                "getchu_id": "152521"
+            }
+        },
+        {
+            "header": {
+                "similarity": "36.46",
+                "thumbnail": "https:\/\/img1.saucenao.com\/res\/pixiv\/1742\/17421583_s.jpg?auth=mv8ETW55iubLb_eHV1CBFA\u0026exp=1606852800",
+                "index_id": 5,
+                "index_name": "Index #5: Pixiv Images - 17421583_s.jpg",
+                "dupes": 0
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/www.pixiv.net\/member_illust.php?mode=medium\u0026illust_id=17421583"
+                ],
+                "title": "\u3010PF\u2164\u3011\u6765\u8a2a\u8005",
+                "pixiv_id": 17421583,
+                "member_name": "hitaki",
+                "member_id": 21718
+            }
+        },
+        {
+            "header": {
+                "similarity": "36.44",
+                "thumbnail": "https:\/\/img3.saucenao.com\/frames\/?expires=1606852800\u0026init=a5cef0332dd78ea7\u0026data=b70ab682ca8699070d69f7d34143965dce951ed3d2a9b2677768c54a1ca2bb476ac6dcd736e6842164a23d0febcd6800ba110b7fb1e5723723a704f223809f73d906237db29afb9ec382a45b86f22e78499f6ac07772ee044332e08c35b79571035fd024bd1db75c49558a8641106163dea247be733b24a98c4f611cdf1661b8\u0026auth=19c29db41529c41bda7d466716218f62f2f17925",
+                "index_id": 24,
+                "index_name": "Index #24: Shows* - 125211-23-5221457.jpg (54199)",
+                "dupes": 5
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/www.imdb.com\/title\/tt2085059"
+                ],
+                "source": "Black Mirror",
+                "imdb_id": "tt2085059",
+                "part": "S03E06",
+                "year": "2011-",
+                "est_time": "01:27:01 \/ 01:29:00"
+            }
+        },
+        {
+            "header": {
+                "similarity": "36.20",
+                "thumbnail": "https:\/\/img3.saucenao.com\/booru\/0\/2\/025526dc99bba5baf598b3bcb7fd9443_4.jpg?auth=ViXZ7lTnJ4MdHGynBs2vIg\u0026exp=1606852800",
+                "index_id": 27,
+                "index_name": "Index #27: Sankaku Channel - 025526dc99bba5baf598b3bcb7fd9443_4.jpg",
+                "dupes": 0
+            },
+            "data": {
+                "ext_urls": [
+                    "https:\/\/chan.sankakucomplex.com\/post\/show\/3815863"
+                ],
+                "sankaku_id": 3815863,
+                "creator": "",
+                "material": "hyakko",
+                "characters": "kobayashi koma, saotome suzume, iizuka tatsuki",
+                "source": ""
+            }
+        }
+    ]
+}
